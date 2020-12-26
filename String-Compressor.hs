@@ -1,6 +1,3 @@
---Mohanad Omar Mostafa Abotaleb 20214054
---Abhinav George Basil 20205163
-
 chomp :: String -> String
 chomp str1 = takeWhile (== head str1) str1
 
